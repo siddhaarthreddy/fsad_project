@@ -1,0 +1,29 @@
+.custom-navbar {
+    background-color: #b02a2a !important; /* Red background for the navbar */
+}
+
+.custom-navbar .navbar-brand {
+    color: white !important; /* White color for the brand text */
+}
+
+.custom-navbar .btn-outline-light {
+    color: white !important; /* White color for the search button */
+    border-color: white !important; /* White border for the search button */
+}
+
+.custom-navbar .btn-danger {
+    background-color: white !important; /* White background for the register button */
+    color: #b02a2a !important; /* Red text for the register button */
+    border: 1px solid #b02a2a !important; /* Red border for the register button */
+}
+
+.custom-navbar .btn-danger:hover {
+    background-color: #b02a2a !important; /* Red background when hovered */
+    color: white !important; /* White text when hovered */
+}
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
