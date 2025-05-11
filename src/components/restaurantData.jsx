@@ -2,7 +2,7 @@ import margheritaPizza from '../Images/Margherita.jpeg'
 import veggieParadise from '../Images/Veggie Paradise.jpeg';
 import chickenDominator from '../Images/Chicken Dominator.jpeg';
 import chickenPepperoni from '../Images/Chicken Pepperoni.jpeg';
-import paneerMakhani from '../Images/Paneer makhani.jpeg';
+import paneerMakhani from '../Images/paneer makhani.jpeg';
 import farmhouse from '../Images/Farmhouse.jpeg';
 import nonVegSupreme from '../Images/Non Veg Supreme.jpeg';
 import garlicBreadsticks from '../Images/Garlic Breadsticks.jpeg';
